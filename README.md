@@ -59,7 +59,8 @@ int main()
 # Modulrt
 * Concept of dividing the programs into modules.
 # Data Structures x Algo
-```         DS
+```
+            DS
             |
     -------------------
     |                 |
