@@ -18,8 +18,10 @@ Declarations: Functions, Classes, Constants
 ## Note
 * Here Lib files are hidden machine behind leaves.
 ```C++
-#include <iostream>   /* 📜 Header file (declares std::cout)  # x ''' - Serpen
-using namespace std;     🧠 Namespace (lets skip std:: prefix) */
+   /* 📜 Header file (declares std::cout)  # x ''' - Serpen
+    🧠 Namespace (lets skip std:: prefix) */
+#include <iostream>
+using namespace std;     
                     
 int main()
 {
