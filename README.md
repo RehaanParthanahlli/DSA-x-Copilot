@@ -15,6 +15,7 @@
    |    |    |
 Declarations: Functions, Classes, Constants
 ```
+## Note
 * Here Lib files are hidden machine behind leaves.
 ```C++
 #include <iostream>   // 📜 Header file (declares std::cout)
@@ -22,12 +23,12 @@ using namespace std;  // 🧠 Namespace (lets skip std:: prefix)
 
 int main()
 {
-    cout << "Rehaan's tree is growing strong!" << endl;
+    cout << "Rehaan's tree is growing strong!" << endl; // We use endl for cout not for cin.
     return 0;
 }
 ```
 ```
-                                 Header files
+                                     Header files
            1.Standard Header files                   2.User-Defined Header files
          *Built-in x Part of stndrd Lib of C++      *Name defines.
 ```
