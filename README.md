@@ -38,7 +38,7 @@ int main()
 * Without ``#include`` compiler dont know whats ``cout`` and When it knows it uses ``iostream`` to understand it as ``std::cout``.
 #Examples of Header files
 ```
-| Header File      | Purpose                                      |             Key Functions / Classes                 |
+| Header File      | Purpose                                      |             Qi Functions / Classes                 |
 |------------------|--------------------------------------------- |---------------------------------------------------- |
 | `<iostream>`     | Input/output stream operations               | `std::cin`, `std::cout`, `std::cerr`, `std::endl`   |
 | `<cmath>`        | Mathematical computations                    | `sqrt`, `pow`, `log`, `sin`, `cos`, `ceil`, `floor` |
@@ -88,6 +88,7 @@ D = '1';
 string E ='2';
 }
 ```
+#Basics covered.Nxt NnPrmtv DS And Headerfle x functions.
 
   
 
