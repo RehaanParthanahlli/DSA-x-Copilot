@@ -88,7 +88,7 @@ D = '1';
 string E ='2';
 }
 ```
-#Basics covered.Nxt NnPrmtv DS And Headerfle x functions.
+# Basics covered.Nxt NnPrmtv DS And Headerfle x functions.
 
   
 
