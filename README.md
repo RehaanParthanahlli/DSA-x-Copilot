@@ -19,8 +19,8 @@ Declarations: Functions, Classes, Constants
 * Here Lib files are hidden machine behind leaves.
 ```C++
 #include <iostream>   /* 📜 Header file (declares std::cout)
-using namespace std;     🧠 Namespace (lets skip std:: prefix)
-                      /* 
+using namespace std;     🧠 Namespace (lets skip std:: prefix) /*
+                    
 int main()
 {
     cout << "Rehaan's tree is growing strong!" << endl; // We use endl for cout not for cin.
