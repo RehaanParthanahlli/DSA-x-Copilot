@@ -58,4 +58,37 @@ int main()
 ```
 # Modulrt
 * Concept of dividing the programs into modules.
+# Data Structures x Algo
+```         DS
+            |
+    -------------------
+    |                 |
+  Primtve DS      Non-Prmtve S
+  |                    |
+ Int               Lnr       NLnr
+ char               |         |
+ float             Arr        Tress
+ double            Que        Graph
+                   Stck
+                   Likdlst
+```
+## Sample code for Prmtve DS
+```C++
+#include<iostream>  //char x String  Capital small And Number 
+using namespace std;
+#include<string>
+int main()
+{
+int n,A[n];
+char B[n],D;
+string C[n],E;
+n = 1;        // string has more functions compared to char!.
+D = '1';
+string E ='2';
+}
+```
+
+  
+
+
 
