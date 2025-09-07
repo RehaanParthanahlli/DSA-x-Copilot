@@ -89,6 +89,11 @@ string E ='2';
 }
 ```
 # Basics covered.Nxt NnPrmtv DS And Headerfle x functions.
+#  Prmtv DS Functions
+* `create`
+* `delete`
+* `update`
+* `Process`
 
   
 
